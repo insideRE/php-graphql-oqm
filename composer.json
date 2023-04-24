@@ -44,5 +44,6 @@
     },
     "scripts": {
         "test": "phpunit tests/ --whitelist src/ --coverage-clover build/coverage/xml"
-    }
+    },
+    "minimum-stability": "dev",
 }
